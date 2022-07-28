@@ -1,0 +1,66 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-99aaa370.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/category/[[type]].vue",
+      "pages/index.vue",
+      "virtual:nuxt:/home/runner/work/generate/generate/.nuxt/error-component.mjs"
+    ],
+    "css": [
+      "entry.17977b45.css"
+    ]
+  },
+  "virtual:nuxt:/home/runner/work/generate/generate/.nuxt/error-component.mjs": {
+    "file": "error-component-0afbf2eb.mjs",
+    "src": "virtual:nuxt:/home/runner/work/generate/generate/.nuxt/error-component.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "dynamicImports": [
+      "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
+    ]
+  },
+  "pages/category/[[type]].vue": {
+    "file": "_type_-f9d1b3e8.mjs",
+    "src": "pages/category/[[type]].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-7ff543ed.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "pages/category/[[type]].vue",
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
+    "file": "error-404-2dd3c4d2.mjs",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "error-404.314f7075.css"
+    ]
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
+    "file": "error-500-35aecbfd.mjs",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "error-500.4e3461e5.css"
+    ]
+  }
+}
