@@ -1,1 +1,0 @@
-import o from"./_type_-dbdbdb68.mjs";import{a as t,e as a,o as r,c as n}from"./entry-83371f35.mjs";const c={components:{CategoryPage:o},data(){return{}}};function s(p,_,m,f,d,g){const e=a("CategoryPage");return r(),n(e)}var l=t(c,[["render",s]]);export{l as default};
