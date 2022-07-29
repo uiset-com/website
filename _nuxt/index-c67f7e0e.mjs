@@ -1,0 +1,1 @@
+import o from"./_type_-bfea27ec.mjs";import{a as t,e as a,o as r,c as n}from"./entry-557c0a28.mjs";const c={components:{CategoryPage:o},data(){return{}}};function s(p,_,m,f,d,g){const e=a("CategoryPage");return r(),n(e)}var l=t(c,[["render",s]]);export{l as default};
