@@ -1,6 +1,6 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-29426ce5.mjs",
+    "file": "entry-012bc925.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
@@ -14,7 +14,7 @@
     ]
   },
   "virtual:nuxt:/home/runner/work/generate/generate/.nuxt/error-component.mjs": {
-    "file": "error-component-3cbd0067.mjs",
+    "file": "error-component-9ea5d30d.mjs",
     "src": "virtual:nuxt:/home/runner/work/generate/generate/.nuxt/error-component.mjs",
     "isDynamicEntry": true,
     "imports": [
@@ -26,17 +26,17 @@
     ]
   },
   "pages/category/[[type]].vue": {
-    "file": "_type_-24c072b0.mjs",
+    "file": "_type_-73c65553.mjs",
     "src": "pages/category/[[type]].vue",
     "isDynamicEntry": true,
     "imports": [
-      "_ResourceList-078c84b8.mjs",
+      "_ResourceList-67814cfd.mjs",
       "_plugin-vue_export-helper-84c1d017.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
-  "_ResourceList-078c84b8.mjs": {
-    "file": "ResourceList-078c84b8.mjs",
+  "_ResourceList-67814cfd.mjs": {
+    "file": "ResourceList-67814cfd.mjs",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
       "_plugin-vue_export-helper-84c1d017.mjs"
@@ -46,27 +46,27 @@
     "file": "plugin-vue_export-helper-84c1d017.mjs"
   },
   "pages/index.vue": {
-    "file": "index-35e2ce66.mjs",
+    "file": "index-32561238.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_ResourceList-078c84b8.mjs",
+      "_ResourceList-67814cfd.mjs",
       "node_modules/nuxt/dist/app/entry.mjs",
       "_plugin-vue_export-helper-84c1d017.mjs"
     ]
   },
   "pages/search/index.vue": {
-    "file": "index-dbd6a8c8.mjs",
+    "file": "index-c8f653df.mjs",
     "src": "pages/search/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_ResourceList-078c84b8.mjs",
+      "_ResourceList-67814cfd.mjs",
       "_plugin-vue_export-helper-84c1d017.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
-    "file": "error-404-09b81212.mjs",
+    "file": "error-404-694d23af.mjs",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -78,7 +78,7 @@
     ]
   },
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
-    "file": "error-500-69977f04.mjs",
+    "file": "error-500-b5f76a99.mjs",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
