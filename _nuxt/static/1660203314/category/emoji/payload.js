@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/category/emoji", {data:[{}],fetch:{"0":{_error:{message:"\u002Fcategorys\u002Femoji\u002Fmeta not found",statusCode:500}}},mutations:void 0});
