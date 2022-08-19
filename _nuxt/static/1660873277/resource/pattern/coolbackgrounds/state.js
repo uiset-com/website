@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1660873277",layout:"default",error:a,serverRendered:true,routePath:"\u002Fresource\u002Fpattern\u002Fcoolbackgrounds",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"ae95fdd1"}}}}(null));
